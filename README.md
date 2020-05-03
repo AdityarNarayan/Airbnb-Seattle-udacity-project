@@ -4,7 +4,7 @@ Table of Contents
 2. [Business Problem](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#business-problem)
 3. [File Descriptions](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#file-discriptio)
 4. [Summary Of The Results](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#summary-of-results)
-5. Blog on Airbnb-Seattle-udacity-project
+5. [Blog on Airbnb-Seattle-udacity-project](https://medium.com/@adityananda14/a-deep-dive-into-seattle-airbnb-market-data-science-project-4c57f35eb322?source=friends_link&sk=5f05da5f364eb59db815a2fb0be69c43)
 6. [Acknowledgements](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#acknowledgements)
 
 ### The Libraries That I Have Used
