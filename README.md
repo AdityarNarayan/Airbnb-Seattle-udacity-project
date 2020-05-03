@@ -4,7 +4,8 @@ Table of Contents
 2. [Business Problem](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#business-problem)
 3. [File Descriptions](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#file-discriptio)
 4. [Summary Of The Results](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#summary-of-results)
-5. [Acknowledgements](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#acknowledgements)
+5. Blog on Airbnb-Seattle-udacity-project
+6. [Acknowledgements](https://github.com/AdityarNarayan/Airbnb-Seattle-udacity-project/blob/master/README.md#acknowledgements)
 
 ### The Libraries That I Have Used
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
@@ -47,6 +48,10 @@ The following key findings from the analysis are summarized below:
 3. Looking further at neighborhoods and property types, I found out that houses in Portage Bay are the most expensive followed by houses in West Queen Anne and Westlake.
 4. Using LinearRegression, I was able to predict price based on a prepped and cleaned dataset, with an r2score of 0.62 on both training and test datasets.
 5. It was found that the features that had the most impact on price were a combination of host details as well as descriptive information about the listing.
+
+### Blog on Airbnb-Seattle-udacity-project
+I have written a blog on website Medium about the project and observations. Link is down below
+https://medium.com/@adityananda14/a-deep-dive-into-seattle-airbnb-market-data-science-project-4c57f35eb322?source=friends_link&sk=5f05da5f364eb59db815a2fb0be69c43
 
 ### Acknowledgements
 Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle
