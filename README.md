@@ -29,7 +29,7 @@ I have tried to find below answers for the below questions.
 6. Can we predict a price for a given listing?
 7. What factors of the listing correlate best for predicting the price?
 
-### File Discriptio
+### File Discription
 The Jupyter notebook showcases the analysis done in order to explore the dataset, the data prepartion and wrangling as well as the building of prediction models in order to answer the questions above. The notebook contains markdown cells to help with documentation of the steps as well as to communicate findings based on each analysis.
 
 For reference an HTML version of the notebook is also available.
